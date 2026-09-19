@@ -1,0 +1,17 @@
+{
+  "id": "msg_01abc123",
+  "type": "message",
+  "role": "assistant",
+  "model": "claude-3-5-sonnet-20241022",
+  "content": [
+    {
+      "type": "text",
+      "text": "Quantum entanglement is a phenomenon in quantum mechanics where two or more particles become correlated in such a way that the quantum state of each particle cannot be described independently of the others, even when separated by large distances. When a measurement is performed on one entangled particle, the result instantaneously determines the corresponding property of its partner particle — regardless of the distance between them. Einstein famously called this 'spooky action at a distance' and was deeply skeptical of it, but it has since been confirmed experimentally many times. Entanglement is a key resource in quantum computing, quantum cryptography, and quantum teleportation."
+    }
+  ],
+  "stop_reason": "end_turn",
+  "usage": {
+    "input_tokens": 12,
+    "output_tokens": 118
+  }
+}

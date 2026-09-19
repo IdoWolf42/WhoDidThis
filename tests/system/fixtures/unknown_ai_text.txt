@@ -1,0 +1,13 @@
+Machine learning is a branch of artificial intelligence that enables systems to learn from data
+and improve their performance over time without being explicitly programmed. At its core, machine
+learning algorithms identify patterns in large datasets and use these patterns to make predictions
+or decisions about new, unseen data.
+
+There are three main types of machine learning: supervised learning, where models are trained on
+labeled data; unsupervised learning, where models find hidden structure in unlabeled data; and
+reinforcement learning, where an agent learns by interacting with an environment and receiving
+feedback in the form of rewards or penalties.
+
+Machine learning is now ubiquitous in everyday life, powering recommendation systems, voice
+assistants, fraud detection, medical diagnosis tools, and much more. As datasets grow larger and
+computing power increases, the capabilities of machine learning systems continue to expand.
