@@ -1,0 +1,12 @@
+Below is a summary I generated using GPT-4 for a presentation:
+
+Renewable energy refers to energy derived from naturally replenishing sources — such as sunlight,
+wind, rain, tides, waves, and geothermal heat. Unlike fossil fuels, these sources are virtually
+inexhaustible on human timescales. Solar and wind power have seen dramatic cost reductions over
+the past decade, making them increasingly competitive with conventional energy sources.
+
+The transition to renewable energy is considered essential for reducing greenhouse gas emissions
+and mitigating climate change. However, challenges remain around intermittency (solar doesn't
+generate power at night, wind is variable), storage, and grid integration.
+
+I edited the tone a bit but kept the structure. Let me know if you want me to expand any section.

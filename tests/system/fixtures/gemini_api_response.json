@@ -1,0 +1,22 @@
+{
+  "model": "gemini-1.5-pro",
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The water cycle, also known as the hydrological cycle, describes the continuous movement of water within Earth and its atmosphere. It consists of several key processes: evaporation, where water from oceans, lakes, and rivers transforms into water vapor due to solar energy; condensation, where water vapor cools and forms clouds; precipitation, where water falls back to Earth as rain, snow, or hail; and collection, where water gathers in oceans, rivers, and groundwater systems. This cycle is fundamental to Earth's climate, weather patterns, and the distribution of fresh water across the planet."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8,
+    "candidatesTokenCount": 120,
+    "totalTokenCount": 128
+  }
+}

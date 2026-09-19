@@ -1,0 +1,22 @@
+{
+  "id": "chatcmpl-abc123",
+  "object": "chat.completion",
+  "created": 1735689600,
+  "model": "gpt-4o",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored as glucose. It takes place primarily in the chloroplasts of plant cells, which contain chlorophyll — the pigment responsible for absorbing sunlight. The overall reaction combines carbon dioxide from the air and water from the soil, using light energy to produce glucose and oxygen as a byproduct. Photosynthesis is the foundation of almost all food chains on Earth, as it converts solar energy into the organic compounds that sustain nearly all living organisms."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 15,
+    "completion_tokens": 95,
+    "total_tokens": 110
+  },
+  "system_fingerprint": "fp_abc123"
+}
